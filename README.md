@@ -1,1 +1,1 @@
-# Hey, I'm Kevin. A programming student!
+# Hey, I'm Kevin. A programming student! :muscle: :sunglasses: 
