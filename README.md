@@ -1,5 +1,5 @@
-### Hey, I'm Kevin. A programming student! :muscle::sunglasses:                                             ![alt-text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-### :books: Currently learning:
+## Hey, I'm Kevin. A programming student! :muscle::sunglasses:                                             
+### :books: Currently learning:                                                                          ![alt-text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)                             
 - Home/KevinTMO/C Language
 
 ### :hourglass_flowing_sand: Currently on stand-by:
