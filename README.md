@@ -1,9 +1,12 @@
 ## Hey, I'm Kevin. A programming student! :muscle::sunglasses: 
 ### :books: Currently learning:
-- C Language
+- Home/KevinTMO/C Language
 
 ### :hourglass_flowing_sand: Currently on stand-by:
-- Shell
+- Home/KevinTMO/Shell
 
 ### :mortar_board: Coming next:
-- Python
+- Home/KevinTMO/Python
+
+### :trophy: My goal:
+- To be a Home/KevinTMO/Full-Stack Software Engineer/Web Development
