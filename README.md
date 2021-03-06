@@ -1,4 +1,4 @@
-## Hey, I'm Kevin. A programming student! :muscle::sunglasses: 
+## Hey, I'm Kevin. A programming student! :muscle::sunglasses:                                      ![alt-text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 ### :books: Currently learning:
 - Home/KevinTMO/C Language
 
@@ -11,4 +11,4 @@
 ### :trophy: My goal:
 - To be a Home/KevinTMO/Full-Stack Software Engineer/Web Development
 
-![alt-text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
