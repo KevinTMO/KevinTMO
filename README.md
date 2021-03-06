@@ -16,4 +16,4 @@
 
 [![KevinTMO GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinTMO&show_icons=true&theme=synthwave)](https://github.com/KevinTMO/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTMO)](https://github.com/KevinTMO/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTMO&theme=synthwave)](https://github.com/KevinTMO/github-readme-stats)
