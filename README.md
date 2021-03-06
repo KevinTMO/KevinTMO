@@ -14,4 +14,4 @@
 ### :trophy: My goal:
 - To be a Home/KevinTMO/Full-Stack Software Engineer/Web Development
 
-[![KevinTMO GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinTMO)](https://github.com/KevinTMO/github-readme-stats)
+[![KevinTMO GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinTMO&show_icons=true&theme=synthwave)](https://github.com/KevinTMO/github-readme-stats)
