@@ -14,6 +14,11 @@
 ### :trophy: My goal:
 - To be a Home/KevinTMO/Full-Stack Software Engineer/Web Development
 
-[![KevinTMO GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinTMO&show_icons=true&theme=synthwave)](https://github.com/KevinTMO/github-readme-stats)
+<a href="https://github.com/KevinTMO/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinTMO&show_icons=true&theme=synthwave" /> 
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTMO&theme=synthwave)](https://github.com/KevinTMO/github-readme-stats)
+<a href="https://github.com/KevinTMO/holbertonschool-low_level_programming">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTMO&theme=synthwave" />
+</a>
+                           
