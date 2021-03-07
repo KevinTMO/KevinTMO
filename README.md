@@ -1,6 +1,7 @@
 <p align="center">
     <h1><strong> Hey, I'm Kevin. A programming student! :muscle::sunglasses: </strong></h1>
-</p>                                          
+</p>   
+
 ![alt-text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 ### :books: Currently learning:                                                                                                   
