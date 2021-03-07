@@ -2,7 +2,7 @@
     <strong> Hey, I'm Kevin. A programming student! :muscle::sunglasses: </strong>
 </p>                                                 
 <p align="center">
-  <img width="200" src="![alt-text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)">
+    ![alt-text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 </p>
   
 
