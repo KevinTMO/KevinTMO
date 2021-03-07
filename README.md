@@ -1,5 +1,5 @@
 <p align="center">
-    Hey, I'm Kevin. A programming student! :muscle::sunglasses:
+    <strong> Hey, I'm Kevin. A programming student! :muscle::sunglasses: </strong>
 </p>                                                 
 
 ![alt-text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)   
