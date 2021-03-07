@@ -1,4 +1,6 @@
-##                                                 Hey, I'm Kevin. A programming student! :muscle::sunglasses:
+<p align="center">
+    Hey, I'm Kevin. A programming student! :muscle::sunglasses:
+</p>                                                 
 
 ![alt-text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)   
 
