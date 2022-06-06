@@ -1,7 +1,7 @@
 ## Hey, I'm Kevin. A programming student! :muscle::sunglasses:  
 
 <p align="center">
-  <img src="[demo.gif](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)" alt="animated" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated" />
 </p>
 
 ### :books: Currently learning:                                                                                                   
