@@ -1,6 +1,8 @@
 ## Hey, I'm Kevin. A programming student! :muscle::sunglasses:  
 
-![alt-text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+<p align="center">
+  <img src="[demo.gif](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)" alt="animated" />
+</p>
 
 ### :books: Currently learning:                                                                                                   
 - Home/KevinTMO/C Language
